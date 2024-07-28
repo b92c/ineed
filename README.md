@@ -1,4 +1,4 @@
-# ineed-frontend
+# ineed
 
 ## Project setup
 ```
